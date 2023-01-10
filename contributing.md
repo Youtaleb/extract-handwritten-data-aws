@@ -1,0 +1,1 @@
+Thank you for your interest in contributing to this project. You can contribute by making changes in a codespace or by making changes locally (fork the repository then create a working branch and start with your changes), then Commit your updates once you are happy with them. When you're finished with the changes, create a pull request.
